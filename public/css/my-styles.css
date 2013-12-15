@@ -56,6 +56,14 @@ strong {
 	opacity: .8;
 	font-size: .9em;
 }
+.visit {
+	color: #333;
+	font-weight: bold;
+}
+.visit:hover {
+	text-decoration: none;
+	color: #333;
+}
 
 /* Links
 ================================= */
@@ -72,6 +80,7 @@ strong {
 ================================= */
 
 hr {
+	height: 2px;
 	margin-bottom: 58px;
 }
 .ft {
